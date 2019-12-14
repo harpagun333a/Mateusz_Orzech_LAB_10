@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Cwiczenie_01_Indeksy_i_Zakresy/1.0.0": {
+        "runtime": {
+          "Cwiczenie_01_Indeksy_i_Zakresy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cwiczenie_01_Indeksy_i_Zakresy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

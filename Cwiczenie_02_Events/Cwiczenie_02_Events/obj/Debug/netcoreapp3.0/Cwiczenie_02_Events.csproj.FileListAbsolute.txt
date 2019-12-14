@@ -1,0 +1,11 @@
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_LAB_10\Cwiczenie_02_Events\Cwiczenie_02_Events\bin\Debug\netcoreapp3.0\Cwiczenie_02_Events.exe
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_LAB_10\Cwiczenie_02_Events\Cwiczenie_02_Events\bin\Debug\netcoreapp3.0\Cwiczenie_02_Events.deps.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_LAB_10\Cwiczenie_02_Events\Cwiczenie_02_Events\bin\Debug\netcoreapp3.0\Cwiczenie_02_Events.runtimeconfig.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_LAB_10\Cwiczenie_02_Events\Cwiczenie_02_Events\bin\Debug\netcoreapp3.0\Cwiczenie_02_Events.runtimeconfig.dev.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_LAB_10\Cwiczenie_02_Events\Cwiczenie_02_Events\bin\Debug\netcoreapp3.0\Cwiczenie_02_Events.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_LAB_10\Cwiczenie_02_Events\Cwiczenie_02_Events\bin\Debug\netcoreapp3.0\Cwiczenie_02_Events.pdb
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_LAB_10\Cwiczenie_02_Events\Cwiczenie_02_Events\obj\Debug\netcoreapp3.0\Cwiczenie_02_Events.AssemblyInfoInputs.cache
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_LAB_10\Cwiczenie_02_Events\Cwiczenie_02_Events\obj\Debug\netcoreapp3.0\Cwiczenie_02_Events.AssemblyInfo.cs
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_LAB_10\Cwiczenie_02_Events\Cwiczenie_02_Events\obj\Debug\netcoreapp3.0\Cwiczenie_02_Events.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_LAB_10\Cwiczenie_02_Events\Cwiczenie_02_Events\obj\Debug\netcoreapp3.0\Cwiczenie_02_Events.pdb
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_LAB_10\Cwiczenie_02_Events\Cwiczenie_02_Events\obj\Debug\netcoreapp3.0\Cwiczenie_02_Events.csprojAssemblyReference.cache

@@ -4,27 +4,6 @@ namespace Cwiczenie_02_Events
 {
     class Program
     {
-        public delegate void cyfra();
-        public delegate void znak();
-
-        public event cyfra Digit;
-        public event cyfra Character;
-
-        protected virtual void OnDigit()
-        {
-            if (Digit != null)
-                Digit();
-            else
-                Console.WriteLine("Naciśnięto cyfrę!");
-        }
-
-        protected virtual void OnCharacter()
-        {
-            if (Character != null)
-                Character();
-            else
-                Console.WriteLine("Naciśnięto literę!");
-        }
 
         static void Main(string[] args)
         {

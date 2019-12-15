@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Cwiczenie_3_Oczyszczanie_pamieci/1.0.0": {
+        "runtime": {
+          "Cwiczenie_3_Oczyszczanie_pamieci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cwiczenie_3_Oczyszczanie_pamieci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
